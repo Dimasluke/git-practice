@@ -9,6 +9,6 @@ const christmas = {
     day8: 'world',
     day9: 'javascript',
     day10: 'react',
-    day11: '',
-    day12: ''
+    day11: 'hello',
+    day12: 'node'
    };
