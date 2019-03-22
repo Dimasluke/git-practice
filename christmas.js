@@ -9,6 +9,6 @@ const christmas = {
   day8: "Whiskey",
   day9: "Rum",
   day10: "Asprin",
-  day11: "",
-  day12: ""
+  day11: "soup",
+  day12: "pears"
 };
