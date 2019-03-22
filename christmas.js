@@ -7,8 +7,8 @@ const christmas = {
   day6: "steve",
   day7: "Vodka",
   day8: "Whiskey",
-  day9: "Rum",
-  day10: "Asprin",
-  day11: "soup",
-  day12: "pears"
+  day9: "9 Ladies Dancing",
+  day10: "10 Lords A-leaping",
+  day11: "11 pipers piping",
+  day12: "12 drummers drumming"
 };
